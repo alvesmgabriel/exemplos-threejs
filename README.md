@@ -6,8 +6,8 @@ Neste repositório você encontrará exemplos com os principais recursos da bibl
 
 ## Orientações gerais
 Este projeto foi construído utilizando o [Node.js](https://nodejs.org/en), versão `18.18`. Os pacotes utilizados no projeto são:
-- **three.js**: versão
-- **vite**: versão
+- **three.js**: versão `0.156.1`
+- **vite**: versão `4.4.9`
 
 ### Execução
 1. Instale os pacotes:
