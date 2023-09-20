@@ -1,0 +1,19 @@
+{
+  "name": "exemplos-threejs",
+  "version": "1.0.0",
+  "description": "Exemplos de recursos da biblioteca Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "javascript"
+  ],
+  "author": "Gabriel M. Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "three": "^0.156.1",
+    "vite": "^4.4.9"
+  }
+}
