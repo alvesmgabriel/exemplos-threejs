@@ -15,5 +15,8 @@
   "devDependencies": {
     "three": "^0.156.1",
     "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9"
   }
 }
