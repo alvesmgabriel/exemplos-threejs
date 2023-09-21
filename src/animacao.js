@@ -41,7 +41,8 @@ window.addEventListener('resize', ajustarTela, false);
 // função ajustarTela
 function ajustarTela() {
     camera.aspect = window.innerWidth / window.innerHeight;
-    //camera.updateProjectionMatrix();
+    // importante para refletir o redimensionamento da tela
+    camera.updateProjectionMatrix();
     renderizador.setSize(window.innerWidth, window.innerHeight);
     renderizador.render(cena, camera);
 }
