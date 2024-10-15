@@ -10,6 +10,7 @@ const cena = new THREE.Scene();
 const fator = 20;
 
 // define os limites do volume de visualiação
+// fov, aspect ratio, near, far
 const camera = new THREE.PerspectiveCamera(75,
     window.innerWidth/window.innerHeight, 0.1, 100);
 

@@ -54,8 +54,8 @@ function ajustarTela() {
 
 function animacao(){
     requestAnimationFrame( animacao );
-    cubo.rotation.x += 0.01;
-    cubo.rotation.y += 0.01;
+    //cubo.rotation.x += 0.01;
+    //cubo.rotation.y += 0.01;
     // renderiza a cena
     renderizador.render(cena, camera);
 }
