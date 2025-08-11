@@ -6,9 +6,9 @@ Neste repositório você encontrará exemplos com os principais recursos da bibl
 
 ## Orientações gerais
 
-Este projeto foi construído utilizando o [Node.js](https://nodejs.org/en), versão `18.18`. Os pacotes utilizados no projeto são:
+Este projeto foi construído utilizando o [Node.js](https://nodejs.org/en), versão `22.18`. Os pacotes utilizados no projeto são:
 - **three.js**: versão `0.156.1`
-- **vite**: versão `4.4.9`
+- **vite**: versão `7.1.1`
 - **dat.gui**: versão `0.7.9`
 
 ### Execução
